@@ -28,7 +28,6 @@ bindsym Mod4+$down focus down
 bindsym Mod4+$up focus up
 bindsym Mod4+$right focus right
 
-
 bindsym Mod4+s layout stacking
 bindsym Mod4+w layout tabbed
 bindsym Mod4+e layout toggle split
@@ -40,6 +39,8 @@ bindsym Mod4+space focus mode_toggle
 bindsym Mod4+a focus parent
 
 bindsym Mod4+Shift+minus move scratchpad
+set $ws1 "Home"
+set $ws2 "2"
 set $ws3 "3"
 set $ws4 "4"
 set $ws5 "5"
