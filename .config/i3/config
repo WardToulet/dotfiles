@@ -1,5 +1,5 @@
 exec --no-startup-id compton -b
-exec --no-startup-id feh --bg-fill ~/Img/background-01.jpg
+exec --no-startup-id feh --bg-fill ~/img/bkg/bkg-01.jpg
 
 #Apperance
 new_window 1pixel
@@ -98,7 +98,7 @@ bindsym Mod4+r mode "resize"
 
 bar {
 	position top
-        status_command i3status
+        status_command i3blocks 
 }
 
 gaps inner 10
