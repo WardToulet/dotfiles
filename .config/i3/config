@@ -17,7 +17,7 @@ set $right l
 
 floating_modifier Mod4
 
-bindsym Mod4+Return exec st
+bindsym Mod4+Return exec alacritty
 
 bindsym Mod4+Shift+q kill
 
