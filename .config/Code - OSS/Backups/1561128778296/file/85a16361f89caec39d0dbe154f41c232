@@ -1,0 +1,3 @@
+file:///home/ward/.screenlayout/2.sh {"mtime":1561128669450,"size":123,"etag":"33ef6er2e3u","orphaned":false}
+#!/bin/sh
+xrandr ---output eDP-1-1 --pr--output eDP-1-1 --primary --output HDMI-0 --offimary --output HDMI-0 --off-output HDMI-0 --off --output eDP-1-1 --mode 1920x1080 --pos 0x0 --rotate normal --output HDMI-1-1 --off
