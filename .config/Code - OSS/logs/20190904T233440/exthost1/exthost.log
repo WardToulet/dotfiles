@@ -1,0 +1,20 @@
+[2019-09-04 23:34:41.863] [exthost] [info] extension host started
+[2019-09-04 23:34:41.926] [exthost] [info] ExtensionService#_doActivateExtension octref.vetur {"startup":false,"activationEvent":"onLanguage:vue"}
+[2019-09-04 23:34:41.926] [exthost] [info] ExtensionService#loadCommonJSModule /home/ward/.vscode-oss/extensions/octref.vetur-0.22.2/dist/client/vueMain
+[2019-09-04 23:34:41.979] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-09-04 23:34:41.979] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2019-09-04 23:34:41.983] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-09-04 23:34:41.983] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/emmet/dist/extension
+[2019-09-04 23:34:42.028] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-09-04 23:34:42.028] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/git/dist/main
+[2019-09-04 23:34:42.114] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-09-04 23:34:42.114] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/merge-conflict/dist/extension
+[2019-09-04 23:34:42.120] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2019-09-04 23:34:42.120] [exthost] [info] ExtensionService#loadCommonJSModule /home/ward/.vscode-oss/extensions/hookyqr.beautify-1.5.0/extension
+[2019-09-04 23:34:42.160] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-09-04 23:34:42.160] [exthost] [info] ExtensionService#loadCommonJSModule /home/ward/.vscode-oss/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-09-04 23:34:42.402] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"activationEvent":"workspaceContains:package.json"}
+[2019-09-04 23:34:42.402] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/npm/dist/main
+[2019-09-04 23:34:42.420] [exthost] [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one {"startup":true,"activationEvent":"workspaceContains:README.md"}
+[2019-09-04 23:34:42.420] [exthost] [info] ExtensionService#loadCommonJSModule /home/ward/.vscode-oss/extensions/yzhang.markdown-all-in-one-2.4.2/dist/extension
+[2019-09-04 23:34:42.748] [exthost] [info] eager extensions activated

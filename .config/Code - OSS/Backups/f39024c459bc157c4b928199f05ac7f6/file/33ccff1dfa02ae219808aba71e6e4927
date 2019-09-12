@@ -1,0 +1,22 @@
+file:///home/ward/disk/repos/howler/frontend/src/components/Header.vue {"mtime":1566569260677,"size":246,"etag":"33njdmfsf7t","orphaned":false}
+<template>
+    <header>
+        <!-- <h1> {{ title }}</h1> -->
+    </header>
+</template>
+
+<script>
+export default {
+  data () {
+    return {
+      title: 'Howler'
+    }
+  }
+}
+</script>
+
+<style>
+header {
+    width: 100%;
+}
+</style>

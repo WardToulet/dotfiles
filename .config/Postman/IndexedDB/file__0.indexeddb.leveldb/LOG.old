@@ -1,0 +1,18 @@
+2019/07/23-18:21:00.813 14315 Reusing MANIFEST /home/ward/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2019/07/23-18:21:00.813 14315 Recovering log #27
+2019/07/23-18:21:00.814 14315 Reusing old log /home/ward/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/000027.log 
+2019/07/23-18:21:09.115 14315 Current memtable full; waiting...
+2019/07/23-18:21:09.115 14492 Level-0 table #32: started
+2019/07/23-18:21:09.118 14492 Level-0 table #32: 60626 bytes OK
+2019/07/23-18:21:09.123 14492 Delete type=0 #27
+2019/07/23-18:21:09.123 14492 Level-0 table #34: started
+2019/07/23-18:21:09.124 14492 Level-0 table #34: 0 bytes OK
+2019/07/23-18:21:09.128 14492 Delete type=0 #31
+2019/07/23-18:21:09.129 14492 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 2108 : 1
+2019/07/23-18:21:09.129 14492 Compacting 1@0 + 1@1 files
+2019/07/23-18:21:09.138 14492 Generated table #35@0: 1133 keys, 92117 bytes
+2019/07/23-18:21:09.138 14492 Compacted 1@0 + 1@1 files => 92117 bytes
+2019/07/23-18:21:09.140 14492 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/07/23-18:21:09.140 14492 Delete type=2 #32
+2019/07/23-18:21:09.140 14492 Delete type=2 #29
+2019/07/23-18:21:09.141 14492 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 2108 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)

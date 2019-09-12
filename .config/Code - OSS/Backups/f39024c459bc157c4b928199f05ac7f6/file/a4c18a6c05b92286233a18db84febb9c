@@ -1,0 +1,19 @@
+file:///home/ward/disk/repos/howler/frontend/src/components/MainAlbumView.vue {"mtime":1566520978437,"size":175,"etag":"33nh3epdk5k","orphaned":false}
+<template>
+    <div>
+        <p>Album view</p>
+    </div>
+</template>
+
+<script>
+
+export default {
+  data () {
+    return {};
+  }
+}
+</script>
+
+<style>
+
+</style>

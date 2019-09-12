@@ -1,5 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/home/ward/.config/fish'
 let g:netrw_dirhist_2='/etc/X11/xorg.conf.d'
 let g:netrw_dirhist_3='/home/ward/.config'
+let g:netrw_dirhist_4='/home/ward/aap1'
+let g:netrw_dirhist_5='/home/ward/.config/nvim'
+let g:netrw_dirhist_6='/home/ward/disk/repos/rust-git'
+let g:netrw_dirhist_7='/home/ward/disk/repos/manhunt'

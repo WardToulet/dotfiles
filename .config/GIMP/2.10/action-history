@@ -1,0 +1,21 @@
+# GIMP action-history
+
+(history-item "tools-angle-increase" 5)
+(history-item "tools-opacity-decrease" 3)
+(history-item "tools-opacity-increase" 2)
+(history-item "file-quit" 2)
+(history-item "image-new" 1)
+(history-item "windows-tab-position" 0)
+(history-item "dialogs-selection-editor" 0)
+(history-item "tools-angle-decrease" 0)
+(history-item "layers-new" 0)
+(history-item "filters-noise-spread" 0)
+(history-item "layers-edit" 0)
+(history-item "filters-noise-solid" 0)
+(history-item "edit-clear" 0)
+(history-item "filters-noise-perlin" 0)
+(history-item "plug-in-flame" 0)
+(history-item "script-fu-difference-clouds" 0)
+(history-item "plug-in-jigsaw" 1)
+
+# end of action-history

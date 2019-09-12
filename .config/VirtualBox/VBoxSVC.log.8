@@ -1,0 +1,41 @@
+00:00:00.000260 main     VirtualBox XPCOM Server 6.0.10 r132055 linux.amd64 (Jul 16 2019 13:49:20) release log
+00:00:00.000263 main     Log opened 2019-08-17T11:04:11.064270000Z
+00:00:00.000263 main     Build Type: release
+00:00:00.000265 main     OS Product: Linux
+00:00:00.000266 main     OS Release: 5.2.8-arch1-1-ARCH
+00:00:00.000267 main     OS Version: #1 SMP PREEMPT Fri Aug 9 21:36:07 UTC 2019
+00:00:00.000283 main     DMI Product Name: HP Pavilion Notebook
+00:00:00.000289 main     DMI Product Version: Type1ProductConfigId
+00:00:00.000314 main     Host RAM: 15929MB (15.5GB) total, 14423MB (14.0GB) available
+00:00:00.000317 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000317 main     Process ID: 25921
+00:00:00.000318 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.001487 main     IPC socket path: /tmp/.vbox-ward-ipc/ipcd
+00:00:00.108011 nspr-2   VirtualBox: object creation starts
+00:00:00.108140 nspr-2   Home directory: '/home/ward/.config/VirtualBox'
+00:00:00.108484 nspr-2   Loading settings file "/home/ward/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.117185 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.118741 nspr-2   NAT: resolv.conf: nameserver 192.168.1.1
+00:00:00.118793 nspr-2   HostDnsMonitor::updateInfo
+00:00:00.118832 nspr-2   HostDnsMonitor: old information
+00:00:00.118842 nspr-2     no server entries
+00:00:00.118851 nspr-2     no domain set
+00:00:00.118859 nspr-2     no search string entries
+00:00:00.118867 nspr-2   HostDnsMonitor: new information
+00:00:00.118875 nspr-2     server 1: 192.168.1.1
+00:00:00.118885 nspr-2     domain: home
+00:00:00.118894 nspr-2     search string 1: home
+00:00:00.124561 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.124747 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d55176e5-6730-4e9e-fc1f-a59b1f44f78f} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.133384 nspr-2   Loading settings file "/home/ward/windows-vm/windows-vm/windows-vm.vbox" with version "1.17-linux"
+00:00:00.134620 nspr-2   Loading settings file "/home/ward/ubuntu-vm/ubuntu-vm/ubuntu-vm.vbox" with version "1.16-linux"
+00:00:00.135497 nspr-2   VirtualBox: object created
+00:00:00.546984 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:00.649577 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:00.650307 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:09.303380 main     VirtualBox: object deletion starts
+00:00:09.303452 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/ward/windows-vm/windows-vm/windows-vm.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:09.303727 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/ward/ubuntu-vm/ubuntu-vm/ubuntu-vm.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:09.637910 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:14.304907 main     {00007f67e00181e0} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:00:14.305835 main     VirtualBox: object deleted

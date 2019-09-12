@@ -354,6 +354,11 @@
 # Video height (integer)
 #glspectrum-height=300
 
+[notify] # LibNotify Notification Plugin
+
+# Timeout (ms) (integer)
+#notify-timeout=4000
+
 [freetype] # Freetype2 font renderer
 
 # Font (string)
@@ -619,6 +624,17 @@
 
 # Follow the mouse (boolean)
 #screen-follow-mouse=0
+
+[cdda] # Audio CD input
+
+# Audio CD device (string)
+#cd-audio=/dev/sr0
+
+# CDDB Server (string)
+#cddb-server=freedb.videolan.org
+
+# CDDB port (integer)
+#cddb-port=80
 
 [libbluray] # Blu-ray Disc support (libbluray)
 
@@ -1182,10 +1198,10 @@ qt-privacy-ask=0
 [skins2] # Skinnable Interface
 
 # Skin to use (string)
-#skins2-last=
+skins2-last=/usr/share/vlc/skins2/default.vlt
 
 # Config of last used skin (string)
-#skins2-config=
+skins2-config=["aboutwin" "aboutwinwin-main" 795 454 330 171 0]["eqwin" "eqwin-main" 795 454 330 171 0]["fullscreenController" "fsc_normal" 710 918 500 130 0]["main" "normal" 710 365 500 350 1]["plwin" "plwin-normal" 806 419 500 350 0]
 
 # Enable transparency effects (boolean)
 #skins2-transparency=0
@@ -1603,6 +1619,38 @@ qt-privacy-ask=0
 
 # Metacube (boolean)
 #sout-http-metacube=0
+
+[access_output_shout] # IceCAST output
+
+# Stream name (string)
+#sout-shout-name=VLC media player - Live stream
+
+# Stream description (string)
+#sout-shout-description=Live stream from VLC media player
+
+# Stream MP3 (boolean)
+#sout-shout-mp3=0
+
+# Genre description (string)
+#sout-shout-genre=Alternative
+
+# URL description (string)
+#sout-shout-url=http://www.videolan.org/vlc
+
+# Bitrate (string)
+#sout-shout-bitrate=
+
+# Samplerate (string)
+#sout-shout-samplerate=
+
+# Number of channels (string)
+#sout-shout-channels=
+
+# Ogg Vorbis Quality (string)
+#sout-shout-quality=
+
+# Stream public (boolean)
+#sout-shout-public=0
 
 [udp] # UDP stream output
 
@@ -2049,6 +2097,29 @@ qt-privacy-ask=0
 # Delay (ms) (integer)
 #sout-display-delay=100
 
+[stream_out_chromecast] # Chromecast stream output
+
+# ? (string)
+#sout-chromecast-ip=
+
+# ? (integer)
+#sout-chromecast-port=8009
+
+# ? (boolean)
+#sout-chromecast-video=1
+
+# HTTP port (integer)
+#sout-chromecast-http-port=8010
+
+# Performance warning (integer)
+#sout-chromecast-show-perf-warning=1
+
+# Enable Audio passthrough (boolean)
+#sout-chromecast-audio-passthrough=0
+
+# Conversion quality (integer)
+#sout-chromecast-conversion-quality=1
+
 [mosaic_bridge] # Mosaic bridge stream output
 
 # ID (string)
@@ -2202,6 +2273,11 @@ qt-privacy-ask=0
 
 # Prefix to show on output line (string)
 #sout-stats-prefix=stats
+
+[stream_out_chromaprint] # Chromaprint stream output
+
+# Duration of the fingerprinting (integer)
+#duration=90
 
 [stream_out_transcode] # Transcode stream output
 
@@ -3074,6 +3150,20 @@ qt-privacy-ask=0
 
 [svcdsub] # Philips OGT (SVCD subtitle) decoder
 
+[twolame] # Libtwolame audio encoder
+
+# Encoding quality (float)
+#sout-twolame-quality=0.000000
+
+# Stereo mode (integer)
+#sout-twolame-mode=0
+
+# VBR mode (boolean)
+#sout-twolame-vbr=0
+
+# Psycho-acoustic model (integer)
+#sout-twolame-psy=3
+
 [jpeg] # JPEG image decoder
 
 # Quality level (integer)
@@ -3112,10 +3202,23 @@ qt-privacy-ask=0
 # Formatted Subtitles (boolean)
 #subsdec-formatted=1
 
+[gstdecode] # GStreamer Based Decoder
+
+# Use DecodeBin (boolean)
+#use-decodebin=1
+
 [ttml] # TTML subtitles decoder
 
 # Subtitle justification (integer)
 #ttml-align=0
+
+[dav1d] # Dav1d video decoder
+
+# Frames Threads (integer)
+#dav1d-thread-frames=0
+
+# Tiles Threads (integer)
+#dav1d-thread-tiles=0
 
 [avcodec] # FFmpeg audio/video decoder
 

@@ -1,28 +1,26 @@
-set number 
+set number number relativenumber
 
-call plug#begin('.vim/plugged')
+call plug#begin('~/.vim/plugged')
 
-" Auto complete ------------------------------
-Plug 'ncm2/ncm2'
-Plug 'roxma/nvim-yarp'
+"fzf
+Plug 'https://github.com/junegunn/fzf.vim.git'
 
-" Current buffer
-Plug 'ncm2/ncm2-bufword'
-" Path
-Plug 'ncm2/ncm2-path'
-" Rust
-Plug 'ncm2/ncm2-racer'
-" Js
-Plug 'ncm2/ncm2-tern'
+"ale
+Plug 'https://github.com/dense-analysis/ale'
 
-" /Auto complete ----------------------------
+"airline
+Plug 'https://github.com/vim-airline/vim-airline'
+Plug 'https://github.com/vim-airline/vim-airline-themes'
 
-" Visual ------------------------------------
-Plug 'itchyny/lightline.vim'
+"git integration
+Plug 'https://github.com/airblade/vim-gitgutter'
 
-" /Visual -----------------------------------
+" commenting
+Plug 'scrooloose/nerdcommenter'
 
-autocmd BufEnter * call ncm2#enable_for_buffer()
-set completeopt=noinsert,menuone,noselect
- 
+" NerdTree 
+Plug 'scrooloose/nerdtree'
 call plug#end()
+
+" Ale settings
+let g:aitline#extentions#enable = 1

@@ -1,0 +1,43 @@
+file:///home/ward/disk/repos/howler/frontend/src/components/Main.vue {"mtime":1566570004411,"size":864,"etag":"33njeo19frr","orphaned":false}
+<template>
+    <main>
+      <nav>
+        <a v-on:click="view = 'mainTrackView'">Track view</a>
+        <a v-on:click="view = 'mainAlbumView'">Album view</a>
+        <a v-on:click="view = 'mainPlaylistView'">Playlist view</a>
+      </nav>
+        <keep-alive>
+            <component :is="view"></component>
+        </keep-alive>
+    </main>
+</template>
+
+<script>
+import mainAlbumView from './MainAlbumView';
+import mainTrackView from './MainTrackView';
+import mainPlaylistView from './MainPlaylistView';
+
+export default {
+  components: {
+    'mainAlbumView': mainAlbumView,
+    'mainTrackView': mainTrackView,
+    'mainPlaylistView': mainPlaylistView
+  },
+  data () {
+    return {
+      view: 'mainTrackView'
+    };
+  }
+}
+</script>
+
+<style scoped>
+  main { 
+    margin: 1em;
+    margin-bottom: 7em;
+  }
+
+  nav {
+    margin-bottom: 2em;
+  }
+</style>>

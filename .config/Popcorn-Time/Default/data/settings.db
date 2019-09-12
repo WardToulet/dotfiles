@@ -1,20 +1,22 @@
-{"key":"lastWatchedTitle","value":"Moon","_id":"6IZL5i36IPHuvGoY"}
+{"key":"lastWatchedTitle","value":"Interstellar","_id":"6IZL5i36IPHuvGoY"}
+{"key":"OnlineSearchCategory","value":"Movies","_id":"6YrgckFgZbv0yayi"}
 {"key":"movies_default_quality","value":"720p","_id":"8UNTqZm8J0zWr6TK"}
-{"key":"filters","value":{"movies":{"sorter":"trending","genre":"","order":-1}},"_id":"9ZVvhBiMKlZljJCo"}
+{"key":"filters","value":{"movies":{"sorter":"trending","genre":"","order":-1},"shows":{"sorter":"trending","genre":"","order":-1},"anime":{"sorter":"popularity","genre":"","type":"All","order":-1},"indie":{"sorter":"popularity","genre":"","order":-1}},"_id":"9ZVvhBiMKlZljJCo"}
+{"key":"ratingStars","value":true,"_id":"CCaHWab6KlCHO4ri"}
 {"key":"arch","value":"x64","_id":"EfeWp1UVsdYGjk64"}
 {"key":"disclaimerAccepted","value":1,"_id":"IKLqhB0Cvz8Mfk2y"}
 {"key":"os","value":"linux","_id":"KNGkd2YxXddakGvd"}
 {"key":"totalDownloaded","value":null,"_id":"Of5axWwyvbb9ydpX"}
-{"key":"lastWatchedTime","value":23.515198,"_id":"ROQ3QLmYKfcMhwDK"}
-{"key":"playerVolume","value":"0.2","_id":"cc9PH9XLSdXrTQZj"}
+{"key":"lastWatchedTime","value":false,"_id":"ROQ3QLmYKfcMhwDK"}
+{"key":"playerVolume","value":"0.3","_id":"cc9PH9XLSdXrTQZj"}
 {"key":"version","value":"0.3.10","_id":"e9pCQMxb005CKiqg"}
 {"key":"totalUploaded","value":null,"_id":"eRn5H9O7RR11aQw5"}
 {"key":"language","value":"en","_id":"guTvmRZOAs33koS6"}
 {"key":"releaseName","value":"Popcorn is Love","_id":"uWMzdewh8eEMlQC6"}
+{"key":"chosenPlayer","value":"local","_id":"xZwaLd0euwhkI8L8"}
+{"key":"shows_default_quality","value":"480p","_id":"yOnD0xngTuQejAzB"}
 {"$$indexCreated":{"fieldName":"key","unique":true,"sparse":false}}
 {"key":"version","value":"0.3.10","_id":"e9pCQMxb005CKiqg"}
 {"key":"releaseName","value":"Popcorn is Love","_id":"uWMzdewh8eEMlQC6"}
 {"key":"arch","value":"x64","_id":"EfeWp1UVsdYGjk64"}
 {"key":"os","value":"linux","_id":"KNGkd2YxXddakGvd"}
-{"key":"filters","value":{"movies":{"sorter":"trending","genre":"","order":-1}},"_id":"9ZVvhBiMKlZljJCo"}
-{"key":"playerVolume","value":"0.2","_id":"cc9PH9XLSdXrTQZj"}

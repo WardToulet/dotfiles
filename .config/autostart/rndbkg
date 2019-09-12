@@ -1,0 +1,2 @@
+#!/bin/bash
+ls /home/ward/img/bkg/ | shuf |  head -n 1 |xargs -I % feh --bg-fill /home/ward/img/bkg/%

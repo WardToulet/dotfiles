@@ -1,0 +1,84 @@
+[2019-09-07 13:47:53.911] [exthost] [info] extension host started
+[2019-09-07 13:47:53.939] [exthost] [info] ExtensionService#_doActivateExtension octref.vetur {"startup":false,"activationEvent":"onLanguage:vue"}
+[2019-09-07 13:47:53.939] [exthost] [info] ExtensionService#loadCommonJSModule /home/ward/.vscode-oss/extensions/octref.vetur-0.22.2/dist/client/vueMain
+[2019-09-07 13:47:53.965] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-09-07 13:47:53.965] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2019-09-07 13:47:53.967] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-09-07 13:47:53.967] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/emmet/dist/extension
+[2019-09-07 13:47:53.980] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-09-07 13:47:53.980] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/git/dist/main
+[2019-09-07 13:47:54.008] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-09-07 13:47:54.008] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/merge-conflict/dist/extension
+[2019-09-07 13:47:54.011] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2019-09-07 13:47:54.011] [exthost] [info] ExtensionService#loadCommonJSModule /home/ward/.vscode-oss/extensions/hookyqr.beautify-1.5.0/extension
+[2019-09-07 13:47:54.033] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-09-07 13:47:54.033] [exthost] [info] ExtensionService#loadCommonJSModule /home/ward/.vscode-oss/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-09-07 13:47:54.247] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"activationEvent":"workspaceContains:package.json"}
+[2019-09-07 13:47:54.247] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/npm/dist/main
+[2019-09-07 13:47:54.251] [exthost] [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one {"startup":true,"activationEvent":"workspaceContains:README.md"}
+[2019-09-07 13:47:54.251] [exthost] [info] ExtensionService#loadCommonJSModule /home/ward/.vscode-oss/extensions/yzhang.markdown-all-in-one-2.4.2/dist/extension
+[2019-09-07 13:47:54.656] [exthost] [info] eager extensions activated
+[2019-09-07 13:49:27.915] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2019-09-07 13:49:27.915] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/typescript-language-features/dist/extension
+[2019-09-07 13:58:19.904] [exthost] [error] [octref.vetur] provider FAILED
+[2019-09-07 13:58:19.907] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:356:724)
+	at new w (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:356:673)
+	at new w (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:345:619)
+	at asSymbolInformation (/home/ward/.vscode-oss/extensions/octref.vetur-0.22.2/node_modules/vscode-languageclient/lib/protocolConverter.js:411:22)
+	at values.map.information (/home/ward/.vscode-oss/extensions/octref.vetur-0.22.2/node_modules/vscode-languageclient/lib/protocolConverter.js:400:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/ward/.vscode-oss/extensions/octref.vetur-0.22.2/node_modules/vscode-languageclient/lib/protocolConverter.js:400:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/ward/.vscode-oss/extensions/octref.vetur-0.22.2/node_modules/vscode-languageclient/lib/client.js:1005:62)
+[2019-09-07 13:58:25.021] [exthost] [error] [octref.vetur] provider FAILED
+[2019-09-07 13:58:25.022] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:356:724)
+	at new w (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:356:673)
+	at new w (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:345:619)
+	at asSymbolInformation (/home/ward/.vscode-oss/extensions/octref.vetur-0.22.2/node_modules/vscode-languageclient/lib/protocolConverter.js:411:22)
+	at values.map.information (/home/ward/.vscode-oss/extensions/octref.vetur-0.22.2/node_modules/vscode-languageclient/lib/protocolConverter.js:400:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/ward/.vscode-oss/extensions/octref.vetur-0.22.2/node_modules/vscode-languageclient/lib/protocolConverter.js:400:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/ward/.vscode-oss/extensions/octref.vetur-0.22.2/node_modules/vscode-languageclient/lib/client.js:1005:62)
+[2019-09-07 14:01:26.606] [exthost] [error] [octref.vetur] provider FAILED
+[2019-09-07 14:01:26.606] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:356:724)
+	at new w (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:356:673)
+	at new w (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:345:619)
+	at asSymbolInformation (/home/ward/.vscode-oss/extensions/octref.vetur-0.22.2/node_modules/vscode-languageclient/lib/protocolConverter.js:411:22)
+	at values.map.information (/home/ward/.vscode-oss/extensions/octref.vetur-0.22.2/node_modules/vscode-languageclient/lib/protocolConverter.js:400:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/ward/.vscode-oss/extensions/octref.vetur-0.22.2/node_modules/vscode-languageclient/lib/protocolConverter.js:400:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/ward/.vscode-oss/extensions/octref.vetur-0.22.2/node_modules/vscode-languageclient/lib/client.js:1005:62)
+[2019-09-07 14:41:30.395] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-09-07 14:41:30.395] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/extension-editing/dist/extension
+[2019-09-07 14:43:59.911] [exthost] [error] [octref.vetur] provider FAILED
+[2019-09-07 14:43:59.911] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:356:724)
+	at new w (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:356:673)
+	at new w (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:345:619)
+	at asSymbolInformation (/home/ward/.vscode-oss/extensions/octref.vetur-0.22.2/node_modules/vscode-languageclient/lib/protocolConverter.js:411:22)
+	at values.map.information (/home/ward/.vscode-oss/extensions/octref.vetur-0.22.2/node_modules/vscode-languageclient/lib/protocolConverter.js:400:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/ward/.vscode-oss/extensions/octref.vetur-0.22.2/node_modules/vscode-languageclient/lib/protocolConverter.js:400:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/ward/.vscode-oss/extensions/octref.vetur-0.22.2/node_modules/vscode-languageclient/lib/client.js:1005:62)
+[2019-09-07 16:46:38.693] [exthost] [error] [octref.vetur] provider FAILED
+[2019-09-07 16:46:38.693] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:356:724)
+	at new w (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:356:673)
+	at new w (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:345:619)
+	at asSymbolInformation (/home/ward/.vscode-oss/extensions/octref.vetur-0.22.2/node_modules/vscode-languageclient/lib/protocolConverter.js:411:22)
+	at values.map.information (/home/ward/.vscode-oss/extensions/octref.vetur-0.22.2/node_modules/vscode-languageclient/lib/protocolConverter.js:400:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/ward/.vscode-oss/extensions/octref.vetur-0.22.2/node_modules/vscode-languageclient/lib/protocolConverter.js:400:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/ward/.vscode-oss/extensions/octref.vetur-0.22.2/node_modules/vscode-languageclient/lib/client.js:1005:62)
+[2019-09-07 17:03:23.873] [exthost] [error] [octref.vetur] provider FAILED
+[2019-09-07 17:03:23.873] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:356:724)
+	at new w (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:356:673)
+	at new w (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:345:619)
+	at asSymbolInformation (/home/ward/.vscode-oss/extensions/octref.vetur-0.22.2/node_modules/vscode-languageclient/lib/protocolConverter.js:411:22)
+	at values.map.information (/home/ward/.vscode-oss/extensions/octref.vetur-0.22.2/node_modules/vscode-languageclient/lib/protocolConverter.js:400:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/ward/.vscode-oss/extensions/octref.vetur-0.22.2/node_modules/vscode-languageclient/lib/protocolConverter.js:400:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/ward/.vscode-oss/extensions/octref.vetur-0.22.2/node_modules/vscode-languageclient/lib/client.js:1005:62)
