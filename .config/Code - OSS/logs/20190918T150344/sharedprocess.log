@@ -1,0 +1,20 @@
+[2019-09-18 15:03:48.137] [sharedprocess] [info] main {"machineId":"2168ad20d41c4606a702f2db636422ee30bd244ccef2d44f7ad0b58eb63306ea"}
+[2019-09-18 15:03:49.835] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2019-09-18 15:03:49.837] [sharedprocess] [info] Installing extension: octref.vetur
+[2019-09-18 15:03:49.838] [sharedprocess] [info] Installing extension: redhat.vscode-xml
+[2019-09-18 15:03:51.695] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /tmp/58bae339-b903-42f7-84aa-faff1d4c4c68
+[2019-09-18 15:03:52.304] [sharedprocess] [info] Extracted extension to /home/ward/.vscode-oss/extensions/.ms-azuretools.vscode-docker-0.8.1: ms-azuretools.vscode-docker
+[2019-09-18 15:03:52.305] [sharedprocess] [info] Renamed to /home/ward/.vscode-oss/extensions/ms-azuretools.vscode-docker-0.8.1
+[2019-09-18 15:03:52.307] [sharedprocess] [info] Installation completed. ms-azuretools.vscode-docker
+[2019-09-18 15:03:52.389] [sharedprocess] [info] Extensions installed successfully: ms-azuretools.vscode-docker
+[2019-09-18 15:03:53.360] [sharedprocess] [info] Downloaded extension: redhat.vscode-xml /tmp/27aeae20-5cf7-417e-bb9c-1da73de95cfc
+[2019-09-18 15:03:53.766] [sharedprocess] [info] Extracted extension to /home/ward/.vscode-oss/extensions/.redhat.vscode-xml-0.9.0: redhat.vscode-xml
+[2019-09-18 15:03:53.766] [sharedprocess] [info] Renamed to /home/ward/.vscode-oss/extensions/redhat.vscode-xml-0.9.0
+[2019-09-18 15:03:53.767] [sharedprocess] [info] Installation completed. redhat.vscode-xml
+[2019-09-18 15:03:53.786] [sharedprocess] [info] Extensions installed successfully: redhat.vscode-xml
+[2019-09-18 15:03:59.804] [sharedprocess] [info] Downloaded extension: octref.vetur /tmp/36b319f8-584d-42aa-9776-d7b2f04b13ba
+[2019-09-18 15:04:10.487] [sharedprocess] [info] Extracted extension to /home/ward/.vscode-oss/extensions/.octref.vetur-0.22.3: octref.vetur
+[2019-09-18 15:04:10.487] [sharedprocess] [info] Renamed to /home/ward/.vscode-oss/extensions/octref.vetur-0.22.3
+[2019-09-18 15:04:10.488] [sharedprocess] [info] Installation completed. octref.vetur
+[2019-09-18 15:04:10.513] [sharedprocess] [info] Extensions installed successfully: octref.vetur
+[2019-09-18 15:04:28.140] [sharedprocess] [info] Starting to clean up unused language packs.

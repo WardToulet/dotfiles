@@ -1,0 +1,2 @@
+[2019-09-18 15:03:34.130] [renderer2] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ward/disk/docs/a/a.js'
+[2019-09-18 15:03:34.130] [renderer2] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ward/disk/docs/a/a.js'

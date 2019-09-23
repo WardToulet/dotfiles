@@ -1,8 +1,0 @@
-Loaded bundled typescript@3.3.4000.
-Vetur initialized
-[Error - 11:38:04 PM] Request textDocument/documentSymbol failed.
-  Message: Request textDocument/documentSymbol failed with message: Cannot read property 'languageServiceRefCount' of undefined
-  Code: -32603 
-[Error - 11:46:44 PM] Request textDocument/codeAction failed.
-  Message: Request textDocument/codeAction failed with message: Debug Failure. Expected 1616 <= 650
-  Code: -32603 

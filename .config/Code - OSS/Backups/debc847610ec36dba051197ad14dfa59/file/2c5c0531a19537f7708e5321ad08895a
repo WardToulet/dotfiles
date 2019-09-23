@@ -1,0 +1,15 @@
+file:///home/ward/disk/repos/modalmd/js/modal.js {"mtime":1568910024964,"size":521,"etag":"33rhh8mjcgp","orphaned":false}
+function trans() {
+    let children = document.querySelector('#edit').childNodes;
+    for(let node of children) {
+        if(node.nodeName == 'DIV') {
+            let str = node.innerText;
+            if(str.match('^#.*').length && str.match('^#.*').length > 0) {
+                console.log('test');
+                let newNode = document.createElement('h1');
+                newNode.innerText = str.replace('^#\s+(.*)', '$1');
+                node.parentNode.replaceChild(newNode, node);
+            }
+        }
+    }
+}p

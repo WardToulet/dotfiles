@@ -1,0 +1,14 @@
+[2019-09-22 19:19:13.104] [sharedprocess] [info] main {"machineId":"2168ad20d41c4606a702f2db636422ee30bd244ccef2d44f7ad0b58eb63306ea"}
+[2019-09-22 19:19:14.781] [sharedprocess] [info] Installing extension: ms-vscode.go
+[2019-09-22 19:19:17.053] [sharedprocess] [info] Downloaded extension: ms-vscode.go /tmp/bef790b5-1c3b-498a-b7ef-63f2aae685e9
+[2019-09-22 19:19:18.764] [sharedprocess] [info] Extracted extension to /home/ward/.vscode-oss/extensions/.ms-vscode.go-0.11.6: ms-vscode.go
+[2019-09-22 19:19:18.765] [sharedprocess] [info] Renamed to /home/ward/.vscode-oss/extensions/ms-vscode.go-0.11.6
+[2019-09-22 19:19:18.766] [sharedprocess] [info] Installation completed. ms-vscode.go
+[2019-09-22 19:19:18.794] [sharedprocess] [info] Extensions installed successfully: ms-vscode.go
+[2019-09-22 19:19:53.107] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-09-22 19:23:32.271] [sharedprocess] [info] Installing extension: filipesabella.live-p5
+[2019-09-22 19:23:35.933] [sharedprocess] [info] Downloaded extension: filipesabella.live-p5 /tmp/5714f30b-b644-4cd5-a9b9-77b13e95f58e
+[2019-09-22 19:23:42.945] [sharedprocess] [info] Extracted extension to /home/ward/.vscode-oss/extensions/.filipesabella.live-p5-1.3.0: filipesabella.live-p5
+[2019-09-22 19:23:42.946] [sharedprocess] [info] Renamed to /home/ward/.vscode-oss/extensions/filipesabella.live-p5-1.3.0
+[2019-09-22 19:23:42.946] [sharedprocess] [info] Installation completed. filipesabella.live-p5
+[2019-09-22 19:23:42.980] [sharedprocess] [info] Extensions installed successfully: filipesabella.live-p5

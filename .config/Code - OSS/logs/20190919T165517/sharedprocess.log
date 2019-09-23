@@ -1,0 +1,5 @@
+[2019-09-19 16:55:21.378] [sharedprocess] [info] main {"machineId":"2168ad20d41c4606a702f2db636422ee30bd244ccef2d44f7ad0b58eb63306ea"}
+[2019-09-19 16:55:22.205] [sharedprocess] [info] Deleted from disk redhat.vscode-xml /home/ward/.vscode-oss/extensions/redhat.vscode-xml-0.8.0
+[2019-09-19 16:55:22.255] [sharedprocess] [info] Deleted from disk ms-azuretools.vscode-docker /home/ward/.vscode-oss/extensions/ms-azuretools.vscode-docker-0.7.0
+[2019-09-19 16:55:22.275] [sharedprocess] [info] Deleted from disk octref.vetur /home/ward/.vscode-oss/extensions/octref.vetur-0.22.2
+[2019-09-19 16:56:01.381] [sharedprocess] [info] Starting to clean up unused language packs.

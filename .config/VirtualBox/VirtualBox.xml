@@ -9,24 +9,25 @@
   <Global>
     <ExtraData>
       <ExtraDataItem name="GUI/Details/Elements" value="general,system,preview,display,storage,audio,network,usb,sharedFolders,description"/>
-      <ExtraDataItem name="GUI/GroupDefinitions/" value="m=47e06529-2ed9-4a7b-9120-f76646d6d10d,m=cf61d72c-073d-482d-ab24-df0f1e87b31b,m=f1419ab9-8757-4464-bf71-d93315a6730b,m=3115fef6-2d1d-4130-b96e-f4414854c4f9"/>
-      <ExtraDataItem name="GUI/LastItemSelected" value="m=windows-vm"/>
-      <ExtraDataItem name="GUI/LastWindowPosition" value="1,20,1918,1059"/>
+      <ExtraDataItem name="GUI/GroupDefinitions/" value="m=47e06529-2ed9-4a7b-9120-f76646d6d10d,m=cf61d72c-073d-482d-ab24-df0f1e87b31b,m=f1419ab9-8757-4464-bf71-d93315a6730b,m=3115fef6-2d1d-4130-b96e-f4414854c4f9,m=1907ef24-bd1d-4665-bd7d-ead08a27f36a"/>
+      <ExtraDataItem name="GUI/LastItemSelected" value="m=test"/>
+      <ExtraDataItem name="GUI/LastWindowPosition" value="961,1100,958,1059"/>
       <ExtraDataItem name="GUI/RecentFolderCD" value="/home/ward/Downloads"/>
       <ExtraDataItem name="GUI/RecentListCD" value="/home/ward/Downloads/VBoxGuestAdditions_6.0.10.iso,/home/ward/iso/protostar-2.iso,/home/ward/iso/kalix64-2019.iso/kali-linux-2019.2-amd64.iso,/home/ward/iso/ubuntux64-18.04.3.iso,/home/ward/iso/win10_1903_V1_64.iso"/>
       <ExtraDataItem name="GUI/SnapshotManager/Details/Expanded" value="true"/>
-      <ExtraDataItem name="GUI/SplitterSizes" value="595,1322"/>
+      <ExtraDataItem name="GUI/SplitterSizes" value="297,660"/>
       <ExtraDataItem name="GUI/SuppressMessages" value="confirmInputCapture,remindAboutAutoCapture,remindAboutMouseIntegration"/>
       <ExtraDataItem name="GUI/Toolbar" value="false"/>
       <ExtraDataItem name="GUI/Tools/LastItemsSelected" value="Welcome,Details"/>
-      <ExtraDataItem name="GUI/UpdateCheckCount" value="7"/>
-      <ExtraDataItem name="GUI/UpdateDate" value="1 d, 2019-08-31, stable, 6.0.10"/>
+      <ExtraDataItem name="GUI/UpdateCheckCount" value="8"/>
+      <ExtraDataItem name="GUI/UpdateDate" value="1 d, 2019-09-20, stable, 6.0.10"/>
     </ExtraData>
     <MachineRegistry>
       <MachineEntry uuid="{47e06529-2ed9-4a7b-9120-f76646d6d10d}" src="/home/ward/windows-vm/windows-vm/windows-vm.vbox"/>
       <MachineEntry uuid="{cf61d72c-073d-482d-ab24-df0f1e87b31b}" src="/home/ward/ubuntu-vm/ubuntu-vm/ubuntu-vm.vbox"/>
       <MachineEntry uuid="{f1419ab9-8757-4464-bf71-d93315a6730b}" src="/home/ward/disk/kali-vm/kali-vm/kali-vm.vbox"/>
       <MachineEntry uuid="{3115fef6-2d1d-4130-b96e-f4414854c4f9}" src="/home/ward/disk/protostar-vm/protostar-vm/protostar-vm.vbox"/>
+      <MachineEntry uuid="{1907ef24-bd1d-4665-bd7d-ead08a27f36a}" src="/home/ward/VirtualBox VMs/test/test.vbox"/>
     </MachineRegistry>
     <NetserviceRegistry>
       <DHCPServers>

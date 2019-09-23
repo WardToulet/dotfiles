@@ -1,4 +1,6 @@
 set number number relativenumber
+set textwidth=80
+set colorcolumn=+1
 
 call plug#begin('~/.vim/plugged')
 

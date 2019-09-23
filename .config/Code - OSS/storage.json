@@ -2,6 +2,12 @@
     "telemetry.machineId": "2168ad20d41c4606a702f2db636422ee30bd244ccef2d44f7ad0b58eb63306ea",
     "openedPathsList": {
         "workspaces3": [
+            "file:///",
+            "file:///home/ward/disk/visuals",
+            "file:///home/ward/disk/repos/modalmd",
+            "file:///home/ward/disk/repos/notes-parser",
+            "file:///home/ward/repos/tcpay",
+            "file:///home/ward/disk/repos/tcpay",
             "file:///home/ward/disk/repos/cb-app-test/test",
             "file:///home/ward/disk/repos/cb-app-test/json-fromat",
             "file:///home/ward/disk/repos/cb-app-test/ionic-vue-example",
@@ -29,6 +35,12 @@
             "file:///home/ward/repos/vinyl"
         ],
         "files2": [
+            "file:///tmp/mozilla_ward0/myCalendar.ics",
+            "file:///home/ward/disk/visuals/p5/src/js/index.js",
+            "file:///src/js/index.js",
+            "file:///home/ward/downloads/alpine-standard-3.10.2-x86_64.iso.sha256",
+            "file:///tmp/mozilla_ward0/BE60734037991370_18-09-2018_tot_18-09-2019.csv",
+            "file:///home/ward/disk/repos/tcpay/index.js",
             "file:///home/ward/disk/visuals/visual-shaders/fragment.glsl",
             "file:///home/ward/disk/repos/howler/mp3-loader/lib.xml",
             "file:///home/ward/peter/lib.xml",
@@ -160,7 +172,72 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/ward/disk/repos/cb-app-test/test",
+                                        "external": "file:///",
+                                        "path": "/",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/ward/disk/visuals",
+                                        "path": "/home/ward/disk/visuals",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/disk/visuals"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/ward/disk/repos/modalmd",
+                                        "path": "/home/ward/disk/repos/modalmd",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/disk/repos/modalmd"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/ward/disk/repos/notes-parser",
+                                        "path": "/home/ward/disk/repos/notes-parser",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/disk/repos/notes-parser"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/ward/repos/tcpay",
+                                        "path": "/home/ward/repos/tcpay",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/repos/tcpay"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/ward/disk/repos/tcpay",
+                                        "path": "/home/ward/disk/repos/tcpay",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/disk/repos/tcpay"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/ward/disk/repos/cb-app-test/test",
                                         "path": "/home/ward/disk/repos/cb-app-test/test",
                                         "scheme": "file"
@@ -202,73 +279,73 @@
                                     "label": "~/disk/repos/cb-app-test"
                                 },
                                 {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/ward/disk/repos/cb-event-system-test",
-                                        "path": "/home/ward/disk/repos/cb-event-system-test",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/disk/repos/cb-event-system-test"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/ward/disk/docs/chefbuddy",
-                                        "path": "/home/ward/disk/docs/chefbuddy",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/disk/docs/chefbuddy"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/ward/disk/repos/howler/mp3-loader",
-                                        "path": "/home/ward/disk/repos/howler/mp3-loader",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/disk/repos/howler/mp3-loader"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/ward/rustlings",
-                                        "path": "/home/ward/rustlings",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/rustlings"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/ward/disk/repos/jessy",
-                                        "path": "/home/ward/disk/repos/jessy",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/disk/repos/jessy"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/ward/disk/repos/howler",
-                                        "path": "/home/ward/disk/repos/howler",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/disk/repos/howler"
-                                },
-                                {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///tmp/mozilla_ward0/myCalendar.ics",
+                                        "path": "/tmp/mozilla_ward0/myCalendar.ics",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/tmp/mozilla_ward0/myCalendar.ics"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/ward/disk/visuals/p5/src/js/index.js",
+                                        "path": "/home/ward/disk/visuals/p5/src/js/index.js",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/disk/visuals/p5/src/js/index.js"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///src/js/index.js",
+                                        "path": "/src/js/index.js",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/src/js/index.js"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/ward/downloads/alpine-standard-3.10.2-x86_64.iso.sha256",
+                                        "path": "/home/ward/downloads/alpine-standard-3.10.2-x86_64.iso.sha256",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/downloads/alpine-standard-3.10.2-x86_64.iso.sha256"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///tmp/mozilla_ward0/BE60734037991370_18-09-2018_tot_18-09-2019.csv",
+                                        "path": "/tmp/mozilla_ward0/BE60734037991370_18-09-2018_tot_18-09-2019.csv",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/tmp/mozilla_ward0/BE60734037991370_18-09-2018_tot_18-09-2019.csv"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/ward/disk/repos/tcpay/index.js",
+                                        "path": "/home/ward/disk/repos/tcpay/index.js",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/disk/repos/tcpay/index.js"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -313,72 +390,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/disk/repos/howler/howler-api/index.js"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/ward/disk/repos/howler/backend/index.js",
-                                        "path": "/home/ward/disk/repos/howler/backend/index.js",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/disk/repos/howler/backend/index.js"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/ward/scipts/baraction.sh",
-                                        "path": "/home/ward/scipts/baraction.sh",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/scipts/baraction.sh"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/ward/.spectrwm.conf",
-                                        "path": "/home/ward/.spectrwm.conf",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.spectrwm.conf"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/ward/disk/repos/pastry-server-v2/app.js",
-                                        "path": "/home/ward/disk/repos/pastry-server-v2/app.js",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/disk/repos/pastry-server-v2/app.js"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/ward/disk/repos/manhunt/db.json",
-                                        "path": "/home/ward/disk/repos/manhunt/db.json",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/disk/repos/manhunt/db.json"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/ward/disk/repos/manhunt/index.js",
-                                        "path": "/home/ward/disk/repos/manhunt/index.js",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/disk/repos/manhunt/index.js"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -492,7 +503,8 @@
                     },
                     {
                         "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder"
+                        "label": "Close &&Folder",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -681,8 +693,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "Show &&Side Bar",
-                                    "checked": true
+                                    "label": "Show &&Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleStatusbarVisibility",
@@ -866,7 +877,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -875,7 +887,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1695,13 +1708,12 @@
     "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/ward/disk/repos/cb-app-test/test",
-            "backupPath": "/home/ward/.config/Code - OSS/Backups/f292b0cc585948451641228020225fe1",
+            "backupPath": "/home/ward/.config/Code - OSS/Backups/1569180659122",
             "uiState": {
                 "mode": 1,
-                "x": 1,
+                "x": 961,
                 "y": 20,
-                "width": 1918,
+                "width": 958,
                 "height": 1059
             }
         },
